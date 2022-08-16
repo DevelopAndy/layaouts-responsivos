@@ -25,7 +25,6 @@
 }
 
 body {
-<<<<<<< HEAD
     font-family: var(--open-sans);
 }
 
@@ -44,9 +43,3 @@ body {
     border: 1px solid var(--boton-rojo);
     border-radius: 5px;
 }
-=======
-    font-family: 'Open Sans', sans-serif;
-}
-
-//Quedamos aquí 
->>>>>>> 031bf151321f29d7a678046cfd4acbae25a0e3c9
